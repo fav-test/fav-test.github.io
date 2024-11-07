@@ -7,12 +7,12 @@
    "scope": "/",
    "icons": [
       {
-         "src": "./images/favicon/manifest/favicon.svg",
+         "src": "/images/favicon/manifest/favicon.svg",
          "type": "image/svg+xml",
          "sizes": "any"
       },
       {
-         "src": "./images/favicon/manifest/favicon-maskable.svg",
+         "src": "/images/favicon/manifest/favicon-maskable.svg",
          "type": "image/svg+xml",
          "purpose": "maskable",
          "sizes": "any"
