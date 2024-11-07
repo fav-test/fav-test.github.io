@@ -1,0 +1,21 @@
+{
+   "name": "Giggster",
+   "description": "Book Unique Spaces",
+   "display": "standalone",
+   "start_url": "/?source=pwa",
+   "id": "/?source=pwa",
+   "scope": "/",
+   "icons": [
+      {
+         "src": "./images/favicon/manifest/favicon.svg",
+         "type": "image/svg+xml",
+         "sizes": "any"
+      },
+      {
+         "src": "./images/favicon/manifest/favicon-maskable.svg",
+         "type": "image/svg+xml",
+         "purpose": "maskable",
+         "sizes": "any"
+      }
+   ]
+}
